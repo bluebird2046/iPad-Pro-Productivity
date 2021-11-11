@@ -1,4 +1,4 @@
-# 欢迎成为 iPad Power Users 
+# 欢迎成为 iPad Power User
 
 感谢你订购《iPad Pro 生产力指南》，我希望通过这本小册子，让更多的人认识到 iPad Pro 的价值，利用 iPad Pro  提升自己的工作效率与生活品质，最终成为 iPad Power Users。
 
@@ -9,7 +9,7 @@
 随着 iPadOS 的发布，在苹果首个面向 iPad 的 OS 的加持下，基于 iPad 以及 iPad Pro 的生产力流程也将被重构，新的系统特性、交互逻辑、第三方应用甚至新的硬件，都将永远改变 iPad 在计算设备历史上的轨迹。
 
 
-「iPad Pro 生产力指南 2.0 」将依托 iPadOS 的变化，并以不变的工具使用逻辑，继续探索这个全新设备的无限可能。也欢迎各位读者关注后续的内容更新，更欢迎大家订阅「[iPad Power User](https://iois.me/product/ipad-power-user)」，这是最快也是免费收到 「iPad Pro 生产力指南 2.0」更新的最佳方法。
+[iPad Pro 生产力指南 2.0](https://iois.me/product/ipad-pro-productivity-2) 继续依托 iPadOS 的变化，并以不变的工具使用逻辑，继续探索这个全新设备的无限可能。也欢迎各位读者关注后续的内容更新，更欢迎大家订阅「[iPad Power User](https://iois.me/product/ipad-power-user-wechat)」，这是最快也是免费收到 「iPad Pro 生产力指南 2.0」更新的最佳方法。
 
 
 
@@ -133,4 +133,5 @@
 
 2017–11–06 发布
 
-- 《iPad Pro 生产力指南》正式上线
+- 《iPad Pro 生产力指南》正式上线
+
